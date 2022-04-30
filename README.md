@@ -2,6 +2,6 @@
 
 Dear all,
 
-this repo will serve to share and distribute course materials for our Summer Term 2021 course.
+this repo will serve to share and distribute course materials for our Summer Term 2022 course.
 
 Welcome!
